@@ -64,4 +64,5 @@
 
 14. 배지 추가
 [배지 달기 (언어, 기술, 개발 도구, 자격)](https://simpleicons.org)
+''' 배지 샘플 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>'''
 
